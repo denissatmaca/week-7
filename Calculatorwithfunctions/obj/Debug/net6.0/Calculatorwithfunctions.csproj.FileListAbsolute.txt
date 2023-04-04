@@ -1,0 +1,15 @@
+C:\Users\monster\source\repos\Week7Functions\Calculatorwithfunctions\bin\Debug\net6.0\Calculatorwithfunctions.exe
+C:\Users\monster\source\repos\Week7Functions\Calculatorwithfunctions\bin\Debug\net6.0\Calculatorwithfunctions.deps.json
+C:\Users\monster\source\repos\Week7Functions\Calculatorwithfunctions\bin\Debug\net6.0\Calculatorwithfunctions.runtimeconfig.json
+C:\Users\monster\source\repos\Week7Functions\Calculatorwithfunctions\bin\Debug\net6.0\Calculatorwithfunctions.dll
+C:\Users\monster\source\repos\Week7Functions\Calculatorwithfunctions\bin\Debug\net6.0\Calculatorwithfunctions.pdb
+C:\Users\monster\source\repos\Week7Functions\Calculatorwithfunctions\obj\Debug\net6.0\Calculatorwithfunctions.csproj.AssemblyReference.cache
+C:\Users\monster\source\repos\Week7Functions\Calculatorwithfunctions\obj\Debug\net6.0\Calculatorwithfunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monster\source\repos\Week7Functions\Calculatorwithfunctions\obj\Debug\net6.0\Calculatorwithfunctions.AssemblyInfoInputs.cache
+C:\Users\monster\source\repos\Week7Functions\Calculatorwithfunctions\obj\Debug\net6.0\Calculatorwithfunctions.AssemblyInfo.cs
+C:\Users\monster\source\repos\Week7Functions\Calculatorwithfunctions\obj\Debug\net6.0\Calculatorwithfunctions.csproj.CoreCompileInputs.cache
+C:\Users\monster\source\repos\Week7Functions\Calculatorwithfunctions\obj\Debug\net6.0\Calculatorwithfunctions.dll
+C:\Users\monster\source\repos\Week7Functions\Calculatorwithfunctions\obj\Debug\net6.0\refint\Calculatorwithfunctions.dll
+C:\Users\monster\source\repos\Week7Functions\Calculatorwithfunctions\obj\Debug\net6.0\Calculatorwithfunctions.pdb
+C:\Users\monster\source\repos\Week7Functions\Calculatorwithfunctions\obj\Debug\net6.0\Calculatorwithfunctions.genruntimeconfig.cache
+C:\Users\monster\source\repos\Week7Functions\Calculatorwithfunctions\obj\Debug\net6.0\ref\Calculatorwithfunctions.dll

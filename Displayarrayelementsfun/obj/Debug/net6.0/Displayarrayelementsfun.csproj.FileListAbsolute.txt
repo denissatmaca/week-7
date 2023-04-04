@@ -1,0 +1,15 @@
+C:\Users\monster\source\repos\Week7Functions\Displayarrayelementsfun\bin\Debug\net6.0\Displayarrayelementsfun.exe
+C:\Users\monster\source\repos\Week7Functions\Displayarrayelementsfun\bin\Debug\net6.0\Displayarrayelementsfun.deps.json
+C:\Users\monster\source\repos\Week7Functions\Displayarrayelementsfun\bin\Debug\net6.0\Displayarrayelementsfun.runtimeconfig.json
+C:\Users\monster\source\repos\Week7Functions\Displayarrayelementsfun\bin\Debug\net6.0\Displayarrayelementsfun.dll
+C:\Users\monster\source\repos\Week7Functions\Displayarrayelementsfun\bin\Debug\net6.0\Displayarrayelementsfun.pdb
+C:\Users\monster\source\repos\Week7Functions\Displayarrayelementsfun\obj\Debug\net6.0\Displayarrayelementsfun.csproj.AssemblyReference.cache
+C:\Users\monster\source\repos\Week7Functions\Displayarrayelementsfun\obj\Debug\net6.0\Displayarrayelementsfun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monster\source\repos\Week7Functions\Displayarrayelementsfun\obj\Debug\net6.0\Displayarrayelementsfun.AssemblyInfoInputs.cache
+C:\Users\monster\source\repos\Week7Functions\Displayarrayelementsfun\obj\Debug\net6.0\Displayarrayelementsfun.AssemblyInfo.cs
+C:\Users\monster\source\repos\Week7Functions\Displayarrayelementsfun\obj\Debug\net6.0\Displayarrayelementsfun.csproj.CoreCompileInputs.cache
+C:\Users\monster\source\repos\Week7Functions\Displayarrayelementsfun\obj\Debug\net6.0\Displayarrayelementsfun.dll
+C:\Users\monster\source\repos\Week7Functions\Displayarrayelementsfun\obj\Debug\net6.0\refint\Displayarrayelementsfun.dll
+C:\Users\monster\source\repos\Week7Functions\Displayarrayelementsfun\obj\Debug\net6.0\Displayarrayelementsfun.pdb
+C:\Users\monster\source\repos\Week7Functions\Displayarrayelementsfun\obj\Debug\net6.0\Displayarrayelementsfun.genruntimeconfig.cache
+C:\Users\monster\source\repos\Week7Functions\Displayarrayelementsfun\obj\Debug\net6.0\ref\Displayarrayelementsfun.dll
